@@ -1,0 +1,40 @@
+hr {
+	margin: 0;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+}
+
+li {
+	list-style: none;
+	margin-bottom: 50px;
+}
+
+p {
+	font-family: Verdana;
+	font-size: 13px;
+	color: #424242;
+	margin-top: 20px;
+}
+
+p#name {
+	color: blue;
+}
+
+.log-area {
+	margin: 0 auto;
+	width: 60%;
+}
+
+.welcome {
+	top: 45px;
+	right: 30px;
+	position: absolute;
+}
+
+.nav-menu {
+	margin: 0 auto;
+	width: 520px;
+}
